@@ -37,6 +37,6 @@ Individual Index(['B2M', 'IL6', 'SERPINA1', 'AREG', 'GDF15'], dtype='object') co
       global_env = globals(),
    )
 # Link for downloading data
-link: https://pan.baidu.com/s/1tJ1bS3lfoelsjUuPWubbzA?pwd=spth 
+link: https://pan.baidu.com/s/1tJ1bS3lfoelsjUuPWubbzA?pwd=spth <br>
 retrieve code: spth 
 
