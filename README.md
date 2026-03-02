@@ -8,4 +8,6 @@ Ubuntu 20.04, and all algorithms were implemented in Python 3.10.8
 # Input Data: A Somatic Mutation Matrix S
 # Input Data: A PPI network Q
 # Link for downloading data
+link: https://pan.baidu.com/s/1tJ1bS3lfoelsjUuPWubbzA?pwd=spth 
+retrieve code: spth 
 
