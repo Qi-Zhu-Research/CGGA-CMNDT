@@ -26,6 +26,7 @@ Individual Index(['B2M', 'IL6', 'SERPINA1', 'AREG', 'GDF15'], dtype='object') co
 3. Running the experiment for the corresponding K value setting
    ```python
     K = 2;
+   
     best_fitness_val, best_sol, fitness_obs = genetic_algorithm(
       fitness_fn=fitness_fn, 
       population_size=POPULATION_SIZE, chromosome_total_length=tumor_mut_bin.shape[1], chromosome_length=K,
