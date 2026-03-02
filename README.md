@@ -5,8 +5,11 @@ In this project, a Genetic Algorithm combined with the Common Global Optimum ope
 Ubuntu 20.04, and all algorithms were implemented in Python 3.10.8
 
 # Input Data: A Single-Cell cell-type Differential Expression Matrix D
+![D矩阵示例](images/d_matrix_example.png)
 # Input Data: A Somatic Mutation Matrix S
+![S矩阵示例](images/s_matrix_example.png)
 # Input Data: A PPI network Q
+![PPI网络示例](images/ppi_example.png)
 # Link for downloading data
 link: https://pan.baidu.com/s/1tJ1bS3lfoelsjUuPWubbzA?pwd=spth 
 retrieve code: spth 
